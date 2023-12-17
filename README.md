@@ -11,8 +11,7 @@ A real-time chat application built with React, Firebase, and Chakra UI.
 
 ## Demo
 
-![chat-app](https://github.com/your-username/chat-app/repository/path/to/image.png)
-
+![chat](https://github.com/RohithBhat19/ChatApp/assets/88024795/758c1d5a-0067-4b44-ac8b-1dfc77355152)
 [Live Demo]https://dancing-taiyaki-c5b77f.netlify.app/
 
 ## Technologies Used
